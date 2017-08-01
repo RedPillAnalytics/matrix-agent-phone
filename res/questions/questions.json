@@ -1,0 +1,133 @@
+[{
+		"question": "How many times have you attended Kscope?",
+		"answers": ["First time!", "2-4", "5-7", "More than 7. "],
+		"labels": ["1", "2+", "5+", "7+"],
+		"data": [3,4,7,2]
+	},
+	{
+		"question": "Why do you attend Kscope?",
+		"answers": ["To Learn.", "To Network. ", "To Party. ", "All of the Above. "],
+		"labels": ["Learn", "Network", "Party", "All"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What did you think of the keynote speaker?",
+		"answers": ["Hilarious. ", "Entertaining. ", "Boring.", "Did not go. "],
+		"labels": ["Hilarious", "Entertaining", "Boring", "Did not go. "],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is your focus area?",
+		"answers": ["APEX", "BI", "EPM", "Database"],
+		"labels": ["APEX", "BI", "EPM", "Database"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is your favorite part of this property?",
+		"answers": ["Pool", "Food. ", "Location. ", "Have not enjoyed it yet. "],
+		"labels": ["Pool", "Food", "Location", "No idea. "],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is your favorite Kscope event?",
+		"answers": ["Special event on Wednesday night", "Community Service Day. ", "5K. ", "Community Night. "],
+		"labels": ["Wednesday night", "Comm. Service", "5k", "Comm. Night"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "How many sessions are you planning on attending?",
+		"answers": ["One during each time slot. ", "As many as possible, but I also have work to do. ", "I have not built my schedule yet. ", "Do I have to?"],
+		"labels": ["19", "Lots", "No idea", "0"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "How has your experience at Kscope been so far?",
+		"answers": ["Awesome.", "I am so tired. ", "My brain hurts.", "All of the Above. "],
+		"labels": ["Awesome", "Tiring", "Headache", "All"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "How geeky are you?",
+		"answers": ["Not at all.", "Barely geeky.", "Silicon Valley geeky. ", "Uber Geek. "],
+		"labels": ["Not.", "Barely. ", "Silicon Valley.", "Uber."],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "How many devices do you have connected to the wifi right now? Be honest.",
+		"answers": ["None, I am off the grid. ", "One.", "3-5", "I am not telling. "],
+		"labels": ["0", "1", "3-5", "Shhhhh."],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Do you believe in aliens?",
+		"answers": ["Yes, we can not be the only living beings in the universe.", "No way!", "Maybe", "I am one. "],
+		"labels": ["Yes.", "No.", "Maybe. ", "I am one. "],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "The first gaming system you owned was? ",
+		"answers": ["Atari", "Nintendo", "Sega", "Pong"],
+		"labels": ["Atari", "Nintendo", "Sega", "Pong"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What kind of games do you prefer?",
+		"answers": ["Brain challenge.", "Shoot em up.", "Relaxing.", "Who has time to play games?"],
+		"labels": ["Brain", "Guns", "Relaxing", "No time"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Which pill would you take?",
+		"answers": ["Blue pill and return to being oblivious.", "Red pill, let us see how deep the rabbit hole goes.", "Neither, I am gluten intolerant.", "Pick a hand, any hand. "],
+		"labels": ["Blue", "Red", "Neither", "Either"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Do we live in the Matrix?",
+		"answers": ["No, the rules of Physics cannot be broken.", "Yes, I took the red pill", "Possibly, I should start running up walls", "My Spoon does not bend"],
+		"labels": ["No", "Yes", "Maybe. ", "Spoon"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What does the number 101 mean?",
+		"answers": ["No idea.", "Binary for 5. ", "1984 reference.", "The apartment of Neo. "],
+		"labels": ["No idea", "Binary", "1984", "Apartment"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Who would you rather be?",
+		"answers": ["Neo.", "Morpheous. ", "Trinity.", "The Oracle. "],
+		"labels": ["Neo", "Morpheous", "Trinity", "Oracle"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is deja vu?",
+		"answers": ["Tedious familiarity.", "A glitch in the Matrix. ", "Creepy.", "What is deja vu?"],
+		"labels": ["Familiarity", "Glitch", "Creepy", "Deja vu"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is your Matrix life slogan?",
+		"answers": ["There is no spoon.", "Follow the white rabbit.", "There is  a difference between knowing the path and walking the path.", "Ignorance is bliss. "],
+		"labels": ["Spoon", "Rabbit", "Path", "Ignorance"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What is your worst nightmare?",
+		"answers": ["Waking up.", "Squiddy.", "Agents.", "The Jump Program. "],
+		"labels": ["Waking", "Squiddy", "Agents", "Jump"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "What type of phone do you have?",
+		"answers": ["Apple, is there another brand?", "Samsung, mine will not melt.", "Blackberry, keeping it real.", "Other"],
+		"labels": ["Apple", "Samsung", "Blackberry", "Other"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Size of largest tv screen in house?",
+		"answers": ["45\"", "60\"", "70\"", "80\""],
+		"labels": ["45", "60", "70", "80"],
+		"data": [0, 0, 0, 0]
+	}
+]

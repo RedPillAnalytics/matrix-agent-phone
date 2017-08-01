@@ -1,0 +1,6 @@
+[{
+	"question": "Did you check out the Community Night?",
+	"answers": ["Yes, APEX Open Mic Night all the way.", "BI Trivia was hysterical. ", "The Database talks were insightful and entertaining. ", "The EPM Cloud Lounge was fun and floaty. "],
+	"labels": ["", "APEX", "BI", "Database"],
+	"data": [0, 0, 0, 0]
+}]

@@ -1,0 +1,207 @@
+/***********************        Layout        ************************/
+
+@import url("raleway.css");
+@import url("transitions.css");
+
+* {
+  font-family: 'Raleway';
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #111;
+  display: flex;
+}
+
+#dashboard {
+  margin: 40px;
+  width: 100%;
+  display: flex;
+}
+
+.half {
+  flex: 1;
+  overflow: hidden;
+}
+
+#survey {
+  border-right: 1px solid #333;
+}
+
+#branding {
+  font-family: 'Raleway';
+  color: #eee;
+  font-weight: 200;
+  font-size: 12pt;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  margin-left: -30px;
+  background: #111;
+  padding: 40px 0 40px 0;
+}
+
+#branding img {
+  height: 80px;
+}
+
+.viz {
+  font-family: 'Raleway';
+  padding: 10px;
+  color: #eee;
+  height: 100%;
+  text-align: center;
+  fill: #eee;
+}
+
+/***********************        Survey        ************************/
+
+#survey {
+  font-family: 'Raleway';
+  padding: 10px;
+  color: #eee;
+  width: 100%;
+  height: 100%;
+}
+
+#surveyQuestion {
+  width: 80%;
+  margin: 120px auto 120px auto;
+  font-family: 'Raleway';
+  color: #eee;
+}
+
+#surveyQuestion h4 {
+  font-size: 48px;
+  font-weight: 100;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+
+#surveyQuestion ul {
+  font-size: 24px;
+  font-weight: 400;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#surveyQuestion ul li {
+  margin: 0;
+  padding: 0;
+}
+
+#surveyChartWrapper {
+  width: 80%;
+  margin: auto;
+}
+
+/***********************        Circle Tiles        ************************/
+
+.tileflex {
+  display: flex;
+}
+
+.tile {
+  border: 1px solid #fee08b;
+  border-radius: 200px;
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: block;
+  padding: 20px;
+}
+
+.tileNum {
+  display: block;
+  font-size: 80px;
+  margin-top: 20px;
+  color: #eee;
+  text-align: center;
+}
+
+.tileDet {
+  text-align: center;
+  font-size: 20px;
+  display: block;
+}
+
+/***********************        Session        ************************/
+
+#session {
+  margin-top: 120px;
+}
+
+#avgMinPerSessionByTrackVertBarWrapper {
+  margin: 0 auto 120px auto;
+  width: 80%;
+}
+
+/***********************        Hardware        ************************/
+
+#piCPUChartWrapper {
+  width: 80%;
+  margin: 120px auto 120px auto;
+}
+
+#gauge {
+  width: 40%;
+  margin-left: 80px;
+  height: 250px;
+  float: left;
+}
+
+#gauge2 {
+  width: 40%;
+  margin-left: 30px;
+  height: 250px;
+  float: left;
+}
+
+#gauge text:nth-child(5) tspan{
+  font-size: 18px !important;  
+}
+
+#gauge2 text:nth-child(5) tspan{
+  font-size: 18px !important;  
+}
+
+/***********************        Attendees        ************************/
+
+#attendees {
+  margin-top: 120px;
+}
+
+#heatmapTitle {
+  margin: 80px 0 0 0;
+  padding: 0;
+}
+  
+#attendees #chart {
+  
+}
+
+rect.bordered {
+  stroke: #E6E6E6;
+  stroke-width:2px;
+}
+
+text.mono {
+  font-size: 9pt;
+  font-family: Consolas, courier;
+  fill: #eee;
+}
+
+text.axis-workweek {
+  fill: #eee;
+}
+
+text.axis-worktime {
+  fill: #eee;
+}

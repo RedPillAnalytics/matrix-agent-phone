@@ -1,0 +1,19 @@
+[{
+		"question": "What did you think of the keynote speaker?",
+		"answers": ["Hilarious. ", "Entertaining. ", "Boring.", "Did not go. "],
+		"labels": ["Hilarous. ", "Entertaining.", "Boring.", "Did not go. "],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Did you enjoy the Welcome Fiesta Sunday night?",
+		"answers": ["Of course, free food and drinks!", "Yes, it was great to check in with the exhibitors. ", "Sadly, no. ", "Did not make it to the hotel in time. "],
+		"labels": ["Food", "Networking", "No", "Too late"],
+		"data": [0, 0, 0, 0]
+	},
+	{
+		"question": "Did you check out Geek Game Night?",
+		"answers": ["Yes, it was a riot. ", "Yes, I even participated. ", "No, you people stay up too late. ", "Too geeky for me. "],
+		"labels": ["Riot", "Participated", "Too late", "Too geeky"],
+		"data": [0, 0, 0, 0]
+	}
+]

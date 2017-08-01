@@ -1,0 +1,32 @@
+{
+  "name": "matrix-agent-phone",
+  "version": "1.0.0",
+  "description": "Display server and IoT device code for Kscope17",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/RedPillAnalytics/conference-analytics",
+  "keywords": [
+    "oracle",
+    "aws",
+    "athena",
+    "s3",
+    "node",
+    "javascript",
+    "electron",
+    "iot"
+  ],
+  "license": "UNLICENSED",
+  "author": "RedPillAnalytics/Emily",
+  "dependencies": {
+    "aws-sdk": "x",
+    "chart.js": "x",
+    "d3": "x",
+    "electron": "x",
+    "moment": "x",
+    "ping": "x",
+    "underscore": "x",
+    "vue": "x"
+  }
+}

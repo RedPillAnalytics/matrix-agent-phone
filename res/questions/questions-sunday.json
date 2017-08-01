@@ -1,0 +1,6 @@
+[{
+	"question": "Did you participate in Community Service Day?",
+	"answers": ["Yes, it was wonderful. ", "No, I was not able to attend. ", "No, but I made a donation. ", "No, but I have participated in the past"],
+	"labels": ["Yes", "No", "Donated", "Past"],
+	"data": [0, 0, 0, 0]
+}]

@@ -1,0 +1,17 @@
+.slide-fade-enter-active {
+  transition: all 1s ease;
+}
+
+.slide-fade-leave-active {
+  transition: all 1s ease;
+}
+
+.slide-fade-enter, .slide-fade-leave-active {
+  margin-top: -998px;
+  opacity: 0;
+}
+
+.slide-fade-enter-active, .slide-fade-leave {
+  margin-top: 0px;
+  opacity: 1;
+}
